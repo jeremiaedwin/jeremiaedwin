@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [koding.blogspot.com](koding.blogspot.com)
+- 📝 I regularly write articles on
 
 - 💬 Ask me about **Laravel**
 
